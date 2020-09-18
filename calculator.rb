@@ -1,7 +1,7 @@
 # Add your variables here
-first_number = 3
+first_number = 9
 
-second_number = 9
+second_number = 3
 
 sum = first_number + second_number
 
@@ -9,4 +9,4 @@ difference = first_number - second_number
 
 product = first_number * second_number
 
-quotient = second_number / first_number
+quotient = first_number / second_number
